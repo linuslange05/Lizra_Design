@@ -83,7 +83,7 @@ $(document).ready(function () {
         e.preventDefault()
         $.ajax({
             method: "POST",
-            url: "https://website-lizra-mail-service.herokuapp.com/send?apitoken=x5mgq8hh92r63e8h33mtcpx7ba3b9u8kbr62qkw8au67uqkq2mmhusxsfvr8jwvd2p62w",
+            url: "https://lizra-design.onrender.com/send?apitoken=x5mgq8hh92r63e8h33mtcpx7ba3b9u8kbr62qkw8au67uqkq2mmhusxsfvr8jwvd2p62w",
             success: function (data) {
 
             },
